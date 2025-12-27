@@ -1,0 +1,9 @@
+streamlit
+azure-ai-formrecognizer
+azure-core
+python-dotenv
+factur-x
+lxml
+pypdf
+pandas
+openpyxl
